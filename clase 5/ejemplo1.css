@@ -1,0 +1,26 @@
+#rojo {
+    width: 300px;
+    /*ancho*/
+    height: 300px;
+    /*alto*/
+    background-color: red;
+    /*fondo*/
+    padding: 20px;
+    border: solid black;
+    box-sizing: border-box;
+    margin: 50px;
+    box-shadow: 10px 10px 20px green; /*minimo 4 propiedades*/
+    border-radius: 20px; /*bordes redondeados*/
+    border-radius: 20px 0px;
+}
+
+#azul {
+    width: 300px;
+    /*ancho*/
+    height: 300px;
+    /*alto*/
+    background-color: blue;
+    /*fondo*/
+    border-right: 10px dotted yellow;
+    padding-right: 10px;
+}
