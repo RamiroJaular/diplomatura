@@ -1,0 +1,44 @@
+.contenedor{
+
+    background-color: gray;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.verde{
+
+    width: 90%;
+    height: 300px;
+    margin: 0 auto;
+    background-color: green;
+    margin-bottom: 20px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+/*
+posicionamiento absoluto:
+depende siempre de un elemento relativo
+por consiguiente la etiqueta body tiene por default posicionamiento relativo
+ */
+
+
+
+.celeste{
+
+    width: 90%;
+    height: 300px;
+    margin: 0 auto;
+    background-color: lightblue;
+    margin-bottom: 20px;
+}
+
+.amarillo{
+
+    width: 90%;
+    height: 300px;
+    margin: 0 auto;
+    background-color: yellow;
+    margin-bottom: 20px;
+}
