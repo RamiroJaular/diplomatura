@@ -1,0 +1,27 @@
+.contenedor {
+
+    background-color: gray;
+    display: inline-flex;
+    flex-wrap: wrap;
+    height: 500px;
+    align-items: flex-start;
+    align-items: flex-end;
+    align-items: center;
+    align-items: stretch;
+
+
+}
+
+.item {
+
+    background-color: blue;
+    width: 300%;
+    height: 100%;
+    font-size: 30px;
+    margin: 5px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
