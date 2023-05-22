@@ -1,0 +1,38 @@
+body{
+    font-family: Arial;
+    padding: 0;
+    margin: 0;
+}
+
+#intro{
+    background: url(../img/01.jpg) 50% 0 fixed;
+    background-size: cover;
+    min-height: 900px;
+    width: 1580px;
+}
+
+#bloqueimg2{
+    background: url(../img/02.jpg) 50% 0 fixed;
+    background-size: cover;
+    height: 600px;
+}
+
+#bloqueimg3{
+    background: url(../img/04.jpg) 50% 0 fixed;
+    background-size: cover;
+    height: 600px;
+}
+
+.texto{
+    color: #ddd;
+    padding: 60px;
+    text-align: center;
+    background-color: black;
+
+}
+
+.bloque{
+    background-color: black;
+}
+
+
