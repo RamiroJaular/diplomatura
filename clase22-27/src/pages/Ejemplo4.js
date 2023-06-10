@@ -5,6 +5,15 @@ const CargaJson = props => {
         <div>
             <h1>CargaJson</h1>
 
+            <ul>
+                {
+                    alumnos.map(alumno => (
+                        <li>{alumno.nombre} {alumno.apellido} ({alumno.edad})</li>
+                    )
+                    )
+                }
+            </ul>
+
 
 
 
